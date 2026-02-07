@@ -63,7 +63,7 @@ are welcome!
 
 [1]: https://www.profilegift.com
 
-[handyman-husband]: https://app.profilegift.com/en-us?p=I%E2%80%99m%20looking%20for%20a%20gift%20for%20my%20husband%20who%20loves%20DIY%20electronics.%20He%20spends%20his%20weekends%203D%20printing%20parts%20for%20his%20vintage%20video%20game%20consoles.%20He%20loves%20open-source%20software%20and%20hates%20tools%20that%20break%20easily.%20Budget%3A%20%24120.
+[handyman-husband]: https://app.profilegift.com/en-us?p=I%27m%20looking%20for%20a%20gift%20for%20my%20husband%20who%20loves%20DIY%20electronics.%20He%20spends%20his%20weekends%203D%20printing%20parts%20for%20his%20vintage%20video%20game%20consoles.%20He%20loves%20open-source%20software%20and%20hates%20tools%20that%20break%20easily.%20Budget%3A%20%24120.
 
 [grandmother-cook]: https://app.profilegift.com/en-us?=I%20need%20a%20gift%20for%20my%2075-year-old%20grandmother.%20She%20is%20an%20expert%20baker%20who%20makes%20complex%20French%20pastries.%20She%20has%20a%20large%20garden%20and%20mild%20arthritis%20in%20her%20hands.%20She%20hates%20clutter%20and%20prefers%20high-quality%2C%20durable%20tools.%20Budget%3A%20%24100.
 
@@ -73,7 +73,7 @@ are welcome!
 
 [retired-father-in-low]: https://app.profilegift.com/en-us?p=I%27m%20looking%20for%20a%20gift%20for%20a%20busy%20mother%20of%20two%20who%20loves%20plants%20but%20forgets%20to%20water%20them.%20She%20has%20a%20dog%20%28so%20plants%20must%20be%20pet-safe%29%20and%20her%20apartment%20doesn%27t%20get%20much%20direct%20sunlight.%20She%20loves%20natural%20materials.%20Budget%3A%20%24150.
 
-[minimalist-developer]: https://app.profilegift.com/en-us?p=%22I%27m%20looking%20for%20a%20gift%20for%20a%2030-year-old%20Full%20Stack%20Developer.%20He%20loves%20minimalist%20design%2C%20hates%20loud%20noises%2C%20and%20drinks%20espresso.%20Budget%3A%20%24100.
+[minimalist-developer]: https://app.profilegift.com/en-us?p=I%27m%20looking%20for%20a%20gift%20for%20a%2030-year-old%20Full%20Stack%20Developer.%20He%20loves%20minimalist%20design%2C%20hates%20loud%20noises%2C%20and%20drinks%20espresso.%20Budget%3A%20%24100.
 
 [sporty-wife]: https://app.profilegift.com/en-us?p=My%20wife%20is%20in%20her%20thirties%20and%20appreciates%20an%20healthy%20lifestyle.%20She%20loves%20good%20tea%2C%20and%20practices%20running%20and%20voleyball%20several%20times%20a%20week.%20I%20have%20a%20budget%20of%20%2490.
 
